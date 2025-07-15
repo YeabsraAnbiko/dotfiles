@@ -1,0 +1,10 @@
+[user]
+	name = Yeabsra
+	email = anbikoyeabsra@gmail.com
+[core]
+	editor = nvim
+	autocrlf = input
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[init]
+	defaultBranch = main
